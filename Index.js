@@ -8,6 +8,4 @@ const myCity = {
   popular: true,
 };
 myCity.pi = 125;
-const religionName = "religion";
-myCity[religionName] = "Catholic";
 console.log(myCity.city.bigCityOne);
