@@ -19,7 +19,7 @@ const userProfile = {
   pet: false,
 };
 console.log(userProfile);
-
+//Комментарий 1//
 const Fname = "Karla";
 const postsQny1 = 11;
 const userProfileTwo = {
